@@ -11,6 +11,8 @@
 
 ## Project Motivaton <a name="motivation"></a>
 
+This projects implements a sudoku solver.
+
 ## Directory Structure <a name="directoryStructure"></a>
 
 ## Results <a name="results"></a>

@@ -9,6 +9,8 @@
 
 ## Installation <a name="installation"></a>
 
+This project used Python 3.7.
+
 ## Project Motivaton <a name="motivation"></a>
 
 This projects implements a sudoku solver.

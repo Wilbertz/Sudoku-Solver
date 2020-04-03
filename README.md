@@ -9,7 +9,7 @@
 
 ## Installation <a name="installation"></a>
 
-This project used Python 3.7.
+This project uses Python 3.7.
 
 ## Project Motivaton <a name="motivation"></a>
 

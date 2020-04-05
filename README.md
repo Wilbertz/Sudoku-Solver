@@ -9,7 +9,10 @@
 
 ## Installation <a name="installation"></a>
 
-This project uses Python 3.7.
+This project uses Python 3.7. The relevant Python packages for this project are as follows:
+
+- numpy
+- pandas
 
 ## Project Motivaton <a name="motivation"></a>
 

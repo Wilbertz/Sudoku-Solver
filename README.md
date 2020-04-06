@@ -20,4 +20,8 @@ This projects implements a sudoku solver using the Davis–Putnam–Logemann–L
 
 ## Directory Structure <a name="directoryStructure"></a>
 
+- Root /
+
+    - README.md  (This readme file)
+
 ## Results <a name="results"></a>

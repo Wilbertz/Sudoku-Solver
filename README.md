@@ -23,5 +23,6 @@ This projects implements a sudoku solver using the Davis–Putnam–Logemann–L
 - Root /
 
     - README.md  (This readme file)
+    
 
 ## Results <a name="results"></a>

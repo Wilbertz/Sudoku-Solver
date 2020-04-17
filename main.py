@@ -1,7 +1,7 @@
 # The main startup code.
 
 def main():
-    print("python main function")
+    print("python main function started.")
 
 
 if __name__ == '__main__':

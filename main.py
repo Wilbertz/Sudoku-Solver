@@ -1,5 +1,7 @@
-# The main startup code.
+def class solver:
+    pass
 
+# The main startup code.
 def main():
     print("python main function started.")
 

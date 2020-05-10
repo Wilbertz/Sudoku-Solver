@@ -1,4 +1,4 @@
-# The solver class
+"""The solver class. """
 
 
 class Solver:

@@ -14,7 +14,7 @@ This project uses Python 3.7. The relevant Python packages for this project are 
 - numpy
 - pandas
 
-## Project Motivaton <a name="motivation"></a>
+## Project Motivation <a name="motivation"></a>
 
 This projects implements a sudoku solver using the Davis–Putnam–Logemann–Loveland (DPLL) algorithm.
 

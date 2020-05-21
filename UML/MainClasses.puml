@@ -2,4 +2,5 @@
 scale 3
 class solution
 class solver
+solution - solver : improves
 @enduml

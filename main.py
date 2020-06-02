@@ -1,9 +1,9 @@
 # The main startup code.
-from solver import Solver
+from dpll_algorithm import DpllAlgorithm
 
 def main():
     print("python main function started.")
-    solver = Solver()
+    solver = DpllAlgorithm()
 
 if __name__ == '__main__':
     main()

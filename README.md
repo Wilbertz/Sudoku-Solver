@@ -25,7 +25,7 @@ This projects implements a sudoku solver using the Davis–Putnam–Logemann–L
     - README.md  (This readme file)
     - main.py
     - solution.py
-    - solver.py
+    - dpll_algorithm.py
     - UML  
         - MainClasses.puml
     

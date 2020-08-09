@@ -3,5 +3,6 @@ scale 3
 class dpll_algorithm
 class solution
 class solver
+class helper
 solution - solver
 @enduml

@@ -9,11 +9,9 @@
 
 ## Installation <a name="installation"></a>
 
-This project uses Python 3.7. The relevant Python packages for this project are as follows:
+This project uses Python 3.8. The relevant Python packages for this project are as follows:
 
 - numpy
-- pandas
-- io
 
 ## Project Motivation <a name="motivation"></a>
 

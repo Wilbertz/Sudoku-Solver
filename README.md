@@ -27,6 +27,7 @@ solving the CNF-SAT problem.
     - README.md  (This readme file)
     - main.py
     - solution.py
+    - solver.py
     - dpll_algorithm.py
     - UML  
         - MainClasses.puml

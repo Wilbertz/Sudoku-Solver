@@ -3,7 +3,7 @@ from dpll_algorithm import DpllAlgorithm
 
 
 def main():
-    print("python main function started.")
+    print("Python main function started.")
     solver = DpllAlgorithm()
 
 

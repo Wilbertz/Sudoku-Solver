@@ -3,9 +3,11 @@ from dpll_algorithm import DpllAlgorithm
 
 
 def main():
-    print("python main function started.")
+    print("Python main function started.")
     solver = DpllAlgorithm()
 
+def report_solution(solution)
+    pass
 
 if __name__ == '__main__':
     main()

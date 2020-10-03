@@ -3,7 +3,8 @@ import numpy
 
 
 class Solver:
-    pass
+    def __init__(self):
+        pass
 
 
 if __name__ == '__solver__':

@@ -6,6 +6,7 @@
 2. [Project Motivation](#motivation)
 3. [Directory Structure](#directoryStructure)
 4. [Results](#results)
+4. [Improvements](#improvements)
 
 ## Installation <a name="installation"></a>
 
@@ -34,3 +35,5 @@ solving the CNF-SAT problem.
     
 
 ## Results <a name="results"></a>
+
+## Improvements <a name="improvements"></a>

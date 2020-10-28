@@ -2,6 +2,7 @@
 
 
 class Solution:
-    def __init__(self):
+    def __init__(self, problem):
+        self.__problem = problem
         pass
 

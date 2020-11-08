@@ -6,3 +6,5 @@ class Solution:
         self.__problem = problem
         pass
 
+if __name__ == '__solution__':
+    pass

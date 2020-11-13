@@ -12,11 +12,11 @@ class LockingCounter:
             self.count += offset
 
 
-def worker(sensor_index, how_many, counter):
-    for _ in range(how_many):
+def worker(sensor_index, count, cnt):
+    for _ in range(count):
         # Read from the sensor
         ...
-        counter.increment(1)
+        cnt.increment(1)
 
 
 how_many = 10**5

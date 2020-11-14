@@ -30,6 +30,8 @@ solving the CNF-SAT problem.
     - solution.py
     - solver.py
     - dpll_algorithm.py
+    - clause.py
+    - formula.py
     - UML  
         - MainClasses.puml
     

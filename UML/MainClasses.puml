@@ -4,5 +4,7 @@ class dpll_algorithm
 class solution
 class solver
 class helper
+class clause
+class formula
 solution - solver
 @enduml

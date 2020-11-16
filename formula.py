@@ -9,7 +9,7 @@ class Formula:
 
     @property
     def is_unsat(self) -> bool:
-        return False
+        return (self.clauses is not None) and (any(c.IsUnsat for c in self.clauses))
 
 
 if __name__ == '__main__':

@@ -1,10 +1,12 @@
 """This class encodes a formula."""
+import logging
 from typing import List
 from clause import Clause
 
 
 class Formula:
     def __init__(self, clauses: List[Clause]):
+        logging.debug('Formula constructor called.')
         self.clauses = clauses
 
     @property
@@ -13,4 +15,4 @@ class Formula:
 
 
 if __name__ == '__main__':
-    pass
+    logging.basicConfig(level=logging.DEBUG)

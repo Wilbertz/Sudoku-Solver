@@ -4,7 +4,9 @@ import unittest
 
 
 class TestFormula(unittest.TestCase):
-    pass
+
+    def test_dummy(self):
+        self.assert_(True)
 
 
 if __name__ == '__main__':

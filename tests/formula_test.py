@@ -1,12 +1,17 @@
 """Unit tests for formula class."""
 
 import unittest
+from  formula import Formula
 
 
 class TestFormula(unittest.TestCase):
 
     def test_dummy(self):
-        self.assert_(True)
+        self.assertTrue(True)
+
+    def test_formula_constructor(self):
+        formula = Formula([])
+        self.assertTrue(formula is not None)
 
 
 if __name__ == '__main__':

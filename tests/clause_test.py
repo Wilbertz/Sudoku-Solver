@@ -13,6 +13,10 @@ class TestClause(unittest.TestCase):
         clause = Clause(set(), set())
         self.assertTrue(clause is not None)
 
+    def test_clause_constructor_should_accept_non_empty_argument_sets(self):
+        clause = clause = Clause({1}, {2})
+        self.assertTrue(clause is not None)
+
     def test_clause_constructor_should_detect_inconsistent_arguments(self):
         with self.assertRaises(Exception) as context:
             clause = Clause({1}, {1})

@@ -6,9 +6,6 @@ from clause import Clause
 
 class TestClause(unittest.TestCase):
 
-    def test_dummy(self):
-        self.assertTrue(True)
-
     def test_clause_constructor_should_accept_empty_argument_sets(self):
         clause = Clause(set(), set())
         self.assertTrue(clause is not None)
